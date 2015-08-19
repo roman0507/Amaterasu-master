@@ -1,0 +1,18 @@
+# Ignore bundler config.
+/.bundle
+
+# Ignore the default SQLite database.
+/db/*.sqlite3
+/db/*.sqlite3-journal
+
+# Ignore uploaded test images.
+/public/uploads
+
+# Ignore Spring files.
+/spring/*.pid
+
+# Ignore all logfiles and tempfiles.
+/log/*.log
+/tmp
+.idea
+.secret
